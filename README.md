@@ -14,7 +14,7 @@ Hello, my name is Eduardo. Data Analyst with expertise in data analysis and repo
 - Visualization: Power BI
 
 ### Projects 📚
-If you wish to see what I'm working on, click [here]
+If you wish to see what I'm working on, click [here](https://github.com/usershoji/data_portfolio.git)!
 
 ### Connect with me 🤝
 [LinkedIn](https://www.linkedin.com/in/eduardoshoji/)
