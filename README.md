@@ -13,5 +13,8 @@ Hello, my name is Eduardo. Data Analyst with expertise in data analysis and repo
 - Database: MySQL, PostgreSQL, SQL Server
 - Visualization: Power BI
 
+### Projects 📚
+If you wish to see what I'm working on, click [here]
+
 ### Connect with me 🤝
 [LinkedIn](https://www.linkedin.com/in/eduardoshoji/)
