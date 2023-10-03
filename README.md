@@ -10,7 +10,7 @@ Hello, my name is Eduardo. Data Analyst with expertise in data analysis and repo
 
 ### Tools 💻
 - Languages: SQL
-- Database:
+- Database: MySQL, PostgreSQL, SQL Server
 - Visualization: Power BI
 
 ### Connect with me 🤝
